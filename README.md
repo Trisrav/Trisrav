@@ -9,10 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ton-username-github&label=Profile%20views&color=0e75b6&style=flat" alt="ton-username-github" /> </p>
 
-- 🔭 Je travaille actuellement sur **[Nom de ton projet actuel ou ce que tu apprends]**.
-- 🌱 J'apprends en ce moment **[Technologie ou langage que tu explores]**.
-- 👯 Je cherche à collaborer sur des **projets open-source liés à [Tes centres d'intérêt, ex: l'automatisation, les jeux...]]**.
-- 📫 Comment me contacter : **[Ton email ou ton profil LinkedIn]**
+- 🔭 Je travaille actuellement sur **Linkcode**.
+- 🌱 J'apprends en ce moment **Python version très très très hard**.
+- 👯 Je cherche à collaborer sur des **projets open-source liés à Tous je suis pas difficile si besoin je suis la**.
+- 📫 Comment me contacter : **<a href="https://www.linkedin.com/in/tristan-ravoisier-200978371 ">Tristan Ravoisier</a>**
 
 ---
 
