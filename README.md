@@ -45,5 +45,5 @@
 ---
 
 <h3 align="left">📊 Statistiques GitHub</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ton-username-github&show_icons=true&locale=fr&theme=dark" alt="ton-username-github" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ton-username-github&show_icons=true&locale=fr&layout=compact&theme=dark" alt="ton-username-github" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Trisrav&show_icons=true&locale=fr&theme=dark" alt="ton-username-github" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trisrav&show_icons=true&locale=fr&layout=compact&theme=dark" alt="ton-username-github" /></p>
