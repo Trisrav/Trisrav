@@ -2,15 +2,15 @@
 <h3 align="center">Un développeur passionné par la création de projets innovants et utiles.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  <img src="https://tristan.ravoisier.tech/_next/image?url=%2FTristan.png&w=750&q=75" width="100">
 </p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ton-username-github&label=Profile%20views&color=0e75b6&style=flat" alt="ton-username-github" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trisrav&label=Profile%20views&color=0e75b6&style=flat" alt="ton-username-github" /> </p>
 
 - 🔭 Je travaille actuellement sur **Linkcode**.
-- 🌱 J'apprends en ce moment **Python version très très très hard**.
+- 💻 étudiants a l'esiee-it
 - 👯 Je cherche à collaborer sur des **projets open-source liés à Tous je suis pas difficile si besoin je suis la**.
 - 📫 Comment me contacter : **<a href="https://www.linkedin.com/in/tristan-ravoisier-200978371 ">Tristan Ravoisier</a>**
 
@@ -30,17 +30,15 @@
 
 <h3 align="left">💡 Mes Projets Principaux</h3>
 <p>Voici une sélection de projets sur lesquels j'ai travaillé. Les projets cochés sont ceux que je souhaite mettre en avant !</p>
+Sérieux:
+- ✔️ **Linkcode**: L'alternative souveraine à Git, gratuite pour tous. Auto-hébergement simplifié, chiffrement natif, et immunité contre le scraping IA.
+- ✔️ **PowerTools**: Une collection d'outils puissants pour les informatitiens .
+- ✔️ **nofraude**: Un script ou une application pour réguler les entrée et génerer un qr code pour des évenements.
 
-- ✔️ **PowerTools**: Une collection d'outils puissants pour [Décrire brièvement l'objectif, ex: automatiser des tâches, simplifier le développement...].
-- ✔️ **Feurtwtbot**: Un bot Twitter [Décrire sa fonction, ex: qui tweete automatiquement des informations, répond à des mentions...].
-- ✔️ **nofraude**: Un script ou une application pour [Décrire son but, ex: détecter des anomalies, prévenir la fraude...].
-- ✔️ **Trollscript**: Un projet amusant pour [Décrire son but, ex: générer du texte humoristique, automatiser des blagues...].
-- **Classeur-web**: Une application web pour [Décrire son but, ex: organiser des fichiers, classer des données en ligne...].
-- **Devine-nombre**: Un jeu simple mais efficace où l'objectif est de deviner un nombre, développé en [Préciser le langage, ex: Python ou JavaScript].
-- **PONG**: Un remake du jeu classique Pong, parfait pour s'exercer à [Préciser la compétence, ex: la gestion des collisions, l'interface graphique...].
-- **Portfolio**: Mon portfolio personnel pour présenter mes compétences et mes créations.
-- **TRAXxXXtv.github.io**: Mon site web personnel ou blog hébergé sur GitHub Pages.
-- **Trisrav**: Un projet axé sur [Décrire son but, ex: le tri de données, la visualisation d'algorithmes...].
+Amusants:
+- ✔️ **Feurtwtbot**: Un bot Twitter qui troll les gens avec une blague null.
+- ✔️ **Trollscript**: Un projet amusant pour troll avec des éffets et autre pour une blague.
+
 
 ---
 
