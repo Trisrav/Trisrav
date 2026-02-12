@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tristan.ravoisier.tech/_next/image?url=%2FTristan.png&w=750&q=75" width="120" style="border-radius: 50%; border: 4px solid #282d33;">
+  <img src="https://tristan.ravoisier.tech/_next/image?url=%2FTristan2.png&w=750&q=75" width="120" style="border-radius: 50%; border: 4px solid #282d33;">
   
   <h1 align="center">Salut , je suis Tristan Ravoisier</h1>
 
