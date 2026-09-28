@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://tristan.ravoisier.tech"><img src="https://img.shields.io/badge/Portfolio-tristan.ravoisier.tech-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:contact@ravoisier.tech"><img src="https://img.shields.io/badge/Contact-M'écrire-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:tris.ravoisier@gmail.com"><img src="https://img.shields.io/badge/Contact-M'écrire-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <p align="center">
