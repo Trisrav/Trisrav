@@ -51,11 +51,11 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=[TON_USERNAME_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_USERNAME_GITHUB]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Trisrav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisrav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langages" height="165" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TON_USERNAME_GITHUB]&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trisrav&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
   </p>
 </div>
 
