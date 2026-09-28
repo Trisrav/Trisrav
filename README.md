@@ -1,14 +1,15 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=220&section=header&text=Tristan%20Ravoisier&fontSize=42&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20UX/UI&descAlignY=62&descFontSize=19&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=220&section=header&text=Tristan%20Ravoisier&fontSize=42&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20UX/UI&descAlignY=62&descFontSize=19&fontColor=ffffff" width="100%" />
 
-  <p align="center">
-    <a href="https://tristan.ravoisier.tech"><img src="https://img.shields.io/badge/Portfolio-tristan.ravoisier.tech-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:contact@ravoisier.tech"><img src="https://img.shields.io/badge/Contact-M'écrire-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <p align="center">
+    <a href="https://tristan.ravoisier.tech"><img src="https://img.shields.io/badge/Portfolio-tristan.ravoisier.tech-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:contact@ravoisier.tech"><img src="https://img.shields.io/badge/Contact-M'écrire-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-  <p align="center">
-    <i>« Je transforme vos idées complexes en interfaces fluides, rapides et intuitives. Prêt à construire les apps de demain. »</i>
-  </p>
+  <p align="center">
+    <i>« Je transforme vos idées complexes en interfaces fluides, rapides et intuitives. Prêt à construire les apps de demain. »</i>
+  </p>
 </div>
 
 ---
@@ -25,12 +26,12 @@
 ### 🛠️ Stack technique
 
 <div align="center">
-  <!-- Frontend & Mobile -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend skills" /><br/>
-  <!-- Backend & Data -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,prisma,docker" alt="Backend skills" /><br/>
-  <!-- Tooling & Environnement -->
-  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,postman,vscode" alt="Tools & Env" />
+  <!-- Frontend & Mobile -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend skills" /><br/>
+  <!-- Backend & Data -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,prisma,docker" alt="Backend skills" /><br/>
+  <!-- Tooling & Environnement -->
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,postman,vscode" alt="Tools & Env" />
 </div>
 
 ---
@@ -50,17 +51,17 @@
 ### 📊 Activité GitHub
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Trisrav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisrav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langages" height="165" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trisrav&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
-  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Trisrav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisrav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langages" height="165" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trisrav&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+  </p>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%" />
 </div>
